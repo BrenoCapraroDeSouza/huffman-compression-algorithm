@@ -1,2 +1,2 @@
 # huffman-compression-algorithm
-Huffman algorith working
+Huffman algorith made by: Breno Souza and Kaun Chaves
